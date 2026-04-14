@@ -1,16 +1,24 @@
-# finance_advisor_stable
+# Finance Advisor 💰
 
-A new Flutter project.
+## 📌 Project Description
+Finance Advisor is a web application developed using Flutter and Firebase to help users manage their personal finances efficiently.
 
-## Getting Started
+## 🚀 Features
+- Monthly Budget Management
+- Daily Expense Tracking
+- Category-wise Budgeting
+- Weekly Reports
+- Rewards System
+- User Authentication
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Firebase
 
-A few resources to get you started if this is your first Flutter project:
+## ▶️ How to Run
+flutter pub get
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👩‍💻 Author
+Parvathy A
