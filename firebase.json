@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "finance-advisor-stable",
+          "appId": "1:537374928101:android:1d0203bf274d9d9fd8f80c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "finance-advisor-stable",
+          "configurations": {
+            "android": "1:537374928101:android:1d0203bf274d9d9fd8f80c",
+            "ios": "1:537374928101:ios:59bc5912cb8a8e6ad8f80c",
+            "macos": "1:537374928101:ios:59bc5912cb8a8e6ad8f80c",
+            "web": "1:537374928101:web:69e22917209a49a3d8f80c",
+            "windows": "1:537374928101:web:ae6e338c90319cffd8f80c"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
