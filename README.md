@@ -154,9 +154,19 @@ The Firestore service works with collections including `budgets`, `expenses`, `r
 
 The expense entry screen requests location permission to obtain the device's current location and convert it into a readable place name. Location access depends on the permission being granted and the device's location services being available.
 
-## 🌐 Demo
+## 🌐 Live Demo
 
-This repository contains a Flutter application. A browser-based live demo has not been provided. To demonstrate the app, run it on an Android emulator or a supported device.
+Try the deployed web version:
+
+<div align="center">
+
+[![Open Finance Advisor](https://img.shields.io/badge/OPEN_FINANCE_ADVISOR-02569B?style=for-the-badge&logo=firebase&logoColor=white)](https://finance-advisor-stable.web.app/)
+
+[https://finance-advisor-stable.web.app/](https://finance-advisor-stable.web.app/)
+
+</div>
+
+The project is also designed to run as a Flutter application on a supported emulator or device.
 
 ## 👩‍💻 Author
 
